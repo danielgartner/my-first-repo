@@ -1,6 +1,6 @@
 # Daniel Gartner
 
-##Data Integrity
+## Data Integrity
 
 ### Geography
 
@@ -10,23 +10,26 @@ I live in New York, NY, USA.
 
 Three of my favorite books are:
 
-- *Fahrenhiet 451* by Ray Bradbury
+- *Fahrenheit 451* by Ray Bradbury
 - *Alice in Wonderland* by Lewis Carroll
 - *The Prince and the Pauper* by Park Twain
 
-*** Food
+### Food
 
-I like:
+I like to eat:
 
-1. Chicken Parm
+1. ***Chicken Parm***
 2. Pizza
-3.Kale Salad
+3. Kale Salad
 
+### Code
+
+'This is some code.'
 
 ```
 This is
 a block
-of code
+of code.
 ```
 
 ### Contact
